@@ -17,6 +17,12 @@ As with all dashboards, my dashboard is also interactive.  You can click on any 
 -- Highest bin 225+ will have both lower and upper range as 225 for the average <br>
 -- Custom Column Salary Average using (New Lower salary and New Upper salary) / 2 <br>
 
+### Added steps:  <br>**
+-- Extracted unique ID column and the Favorite Programming Language as a separate xlsx file named Favorite Programming Language Merged.xlsx. <br>
+-- Replaced "Other: Specify" as SQL if string contains SQL.  <br>
+-- Joined this new xlsx file to the current table using the unique ID column. <br>
+![Joined_new_table](Joined_new_table.JPG)
+
 ##### Link to the dataset here -> https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 
 ##### Huge thanks to [@AlexTheAnalyst](https://www.youtube.com/watch?v=g0m5sEHPU-s) and his youtube channel for guiding this project.
