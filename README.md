@@ -1,7 +1,8 @@
 # PowerBI_Dashboard_Data_Professionals_Survey
 
 As with all dashboards, my dashboard is also interactive.  You can click on any color in the Gender chart for a Gender sub-group, or in the Country chart for a country sub-group.
-[Here's the walk-through of the dashboard]  https://github.com/SandyGCabanes/PowerBI_Dashboard_Data_Professionals_Survey/blob/main/powerbi_dataprofessionals_survey.gif
+
+![Here's the walk-through of the dashboard]  https://github.com/SandyGCabanes/PowerBI_Dashboard_Data_Professionals_Survey/blob/main/powerbi_dataprofessionals_survey.gif
 
 ## Dataset from AlexTheAnalyst, Imported using PowerQuery and 
 
