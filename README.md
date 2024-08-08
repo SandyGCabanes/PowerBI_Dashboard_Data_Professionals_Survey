@@ -2,9 +2,12 @@
 
 As with all dashboards, my dashboard is also interactive.  You can click on any color in the Gender chart for a Gender sub-group, or in the Country chart for a country sub-group.
 
-## ![Here's the walk-through of the dashboard](powerbi_dataprofessionals_survey.gif)
+## Key Insights:  Average age of the sample is 29, with about 3/4 male and 1/4 female.  Favorite language is python.  
+## The highest average salary belongs to Data Scientist followed by Data Engineer.  This sample's most important thing for a job is "high salary."   About less than half of respondents are from the U.S.
 
-### Dataset Imported using PowerQuery and Transformations Done as follows:
+## ![Here's the walk-through of the dashboard](powerbi_dataprofessionals_survey.gif)  Feel free to look at the mp4 video file to see a higher resolution version.  (Dashboard for Data Professionals Survey.mp4)
+
+### Workflow Documentation:  Dataset Imported using PowerQuery and Transformations Done as follows.
 -- Removed non-useful columns
 
 -- Others: Specify truncated to Others by Split Column option, Custom delimiter = ( <br>
