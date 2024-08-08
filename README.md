@@ -2,7 +2,7 @@
 
 As with all dashboards, my dashboard is also interactive.  You can click on any color in the Gender chart for a Gender sub-group, or in the Country chart for a country sub-group.
 
-## [Here's the walk-through of the dashboard](powerbi_dataprofessionals_survey.gif)
+## ![Here's the walk-through of the dashboard](powerbi_dataprofessionals_survey.gif)
 
 ### Dataset Imported using PowerQuery and Transformations Done as follows:
 -- Removed non-useful columns
