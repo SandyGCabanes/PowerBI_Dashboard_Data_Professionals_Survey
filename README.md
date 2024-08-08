@@ -18,7 +18,7 @@ As with all dashboards, my dashboard is also interactive.  You can click on any 
 -- Salary ranges: Split Column by delimiter, two new columns created as lower and upper salary <br>
 -- Character 'k' removed using Replace Values <br>
 -- New lower and upper range columns formatted as Whole Number <br>
--- Highest bin 225+ will have both lower and upper range as 225 for the average <br>
+-- Values at 225+ had - in upper range, replaced with 225 to get 225 average <br>
 -- Custom Column Salary Average using (New Lower salary and New Upper salary) / 2 <br>
 
 #### Added steps:  <br>
