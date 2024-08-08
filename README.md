@@ -1,5 +1,7 @@
 # PowerBI_Dashboard_Data_Professionals_Survey
-Here's the walk-through of the dashboard
+
+Here's the walk-through of the dashboard  https://github.com/SandyGCabanes/PowerBI_Dashboard_Data_Professionals_Survey/blob/main/powerbi_dataprofessionals_survey.gif
+
 
 
 ## [Power BI Dashboard for Data Professionals Survey](https://app.powerbi.com/groups/me/reports/81dcfef1-22fb-4d7e-a000-ab9174492ff7/ReportSection?experience=power-bi)
